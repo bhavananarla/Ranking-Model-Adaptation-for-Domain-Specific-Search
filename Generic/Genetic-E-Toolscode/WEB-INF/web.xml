@@ -1,0 +1,122 @@
+<web-app>
+<welcome-file-list>
+	<welcome-file>First.html</welcome-file>
+</welcome-file-list>
+<servlet>
+	<servlet-name>DeleteDetail</servlet-name>
+	<servlet-class>inet.nit.List.Deletedetail</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>DeleteDetail</servlet-name>
+	<url-pattern>/Deletedetail</url-pattern>
+</servlet-mapping>
+<servlet>
+	<servlet-name>ListDelete</servlet-name>
+	<servlet-class>inet.nit.List.ListDelete</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>ListDelete</servlet-name>
+	<url-pattern>/ListDelete</url-pattern>
+</servlet-mapping>
+<servlet>
+	<servlet-name>DeleteList</servlet-name>
+	<servlet-class>inet.nit.List.DeleteList</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>DeleteList</servlet-name>
+	<url-pattern>/DeleteList</url-pattern>
+</servlet-mapping>
+<servlet>
+	<servlet-name>FormDelete</servlet-name>
+	<servlet-class>inet.nit.Form.FormDelete</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>FormDelete</servlet-name>
+	<url-pattern>/DeleteForm</url-pattern>
+</servlet-mapping>
+<servlet>
+	<servlet-name>DeleteForm</servlet-name>
+	<servlet-class>inet.nit.Form.DeleteForm</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>DeleteForm</servlet-name>
+	<url-pattern>/Delete</url-pattern>
+</servlet-mapping>
+
+<servlet>
+	<servlet-name>CreateList</servlet-name>
+	<servlet-class>inet.nit.List.CreateList</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>CreateList</servlet-name>
+	<url-pattern>/CreateList</url-pattern>
+</servlet-mapping>
+<servlet>
+	<servlet-name>CreateListServlet</servlet-name>
+	<servlet-class>inet.nit.List.CreateListServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>CreateListServlet</servlet-name>
+	<url-pattern>/CreateListServlet</url-pattern>
+</servlet-mapping>
+<servlet>
+	<servlet-name>TestServlet</servlet-name>
+	<servlet-class>inet.nit.List.TestServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>TestServlet</servlet-name>
+	<url-pattern>/TestServlet</url-pattern>
+</servlet-mapping>
+<servlet>
+<servlet-name>CreateForm</servlet-name>
+<servlet-class>inet.nit.Form.CreateForm</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>CreateForm</servlet-name>
+<url-pattern>/CreateForm</url-pattern>
+</servlet-mapping>
+<servlet>
+<servlet-name>CreateFormServlet</servlet-name>
+<servlet-class>inet.nit.Form.CreateFormServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>CreateFormServlet</servlet-name>
+<url-pattern>/CreateFormServlet</url-pattern>
+</servlet-mapping>
+<servlet>
+<servlet-name>TestFormServlet</servlet-name>
+<servlet-class>inet.nit.Form.TestFormServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>TestFormServlet</servlet-name>
+<url-pattern>/TestFormServlet</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>DisplayForm</servlet-name>
+<servlet-class>inet.nit.Form.DisplayForm</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>DisplayForm</servlet-name>
+<url-pattern>/DisplayForm</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>DisplayAction</servlet-name>
+<servlet-class>inet.nit.Form.DisplayAction</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>DisplayAction</servlet-name>
+<url-pattern>/DisplayAction</url-pattern>
+</servlet-mapping>
+<servlet>
+<servlet-name>StoreInDatabase</servlet-name>
+<servlet-class>inet.nit.Form.StoreInDatabase</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>StoreInDatabase</servlet-name>
+<url-pattern>/StoreInDatabase</url-pattern>
+</servlet-mapping>
+
+
+</web-app>

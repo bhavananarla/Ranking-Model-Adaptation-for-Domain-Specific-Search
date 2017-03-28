@@ -1,0 +1,6 @@
+04/03/04 17:10:41 INFO  pop3server: POP3 Service uses default thread group.
+04/03/04 17:10:41 INFO  pop3server: POP3 Service is running on: nit2
+04/03/04 17:10:41 INFO  pop3server: POP3 Service handler hello name is: nit2
+04/03/04 17:10:41 INFO  pop3server: POP3 Service handler connection timeout is: 120000
+04/03/04 17:10:41 INFO  pop3server: The idle timeout will be reset every 20480 bytes.
+04/03/04 17:10:41 INFO  pop3server: POP3 Service started plain:110

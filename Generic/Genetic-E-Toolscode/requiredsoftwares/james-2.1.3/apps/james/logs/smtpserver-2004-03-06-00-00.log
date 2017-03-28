@@ -1,0 +1,22 @@
+06/03/04 00:00:39 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:00:39 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:00:49 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:02:20 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:02:21 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:03:31 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:03:31 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:03:40 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:08:36 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:08:36 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:09:27 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:09:27 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:10:03 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:10:04 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:16:32 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:16:32 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:19:09 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:19:09 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:20:54 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:20:54 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]
+06/03/04 00:21:33 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+06/03/04 00:21:33 INFO  smtpserver: Successfully spooled mail from success1@nit5 for [success2@nit5]

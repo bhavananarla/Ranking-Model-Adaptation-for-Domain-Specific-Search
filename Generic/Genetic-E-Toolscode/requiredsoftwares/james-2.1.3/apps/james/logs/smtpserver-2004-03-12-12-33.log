@@ -1,0 +1,39 @@
+12/03/04 12:33:43 INFO  smtpserver: SMTP Service uses default thread group.
+12/03/04 12:33:43 INFO  smtpserver: SMTP Service is running on: nit2
+12/03/04 12:33:43 INFO  smtpserver: SMTP Service handler hello name is: nit2
+12/03/04 12:33:43 INFO  smtpserver: SMTP Service handler connection timeout is: 360000
+12/03/04 12:33:43 INFO  smtpserver: This SMTP server does not require authentication.
+12/03/04 12:33:43 INFO  smtpserver: No maximum message size is enforced for this server.
+12/03/04 12:33:43 INFO  smtpserver: The idle timeout will be reset every 20480 bytes.
+12/03/04 12:33:43 INFO  smtpserver: SMTP Service started plain:25
+12/03/04 12:47:24 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 12:47:27 INFO  smtpserver: Successfully spooled mail from stud2@nit2 for [stud1@nit2]
+12/03/04 12:47:44 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 12:47:44 INFO  smtpserver: Successfully spooled mail from stud2@nit2 for [stud1@nit2]
+12/03/04 12:47:47 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 12:47:48 INFO  smtpserver: Successfully spooled mail from stud2@nit2 for [stud1@nit2]
+12/03/04 12:51:30 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 12:51:30 INFO  smtpserver: Successfully spooled mail from stud2@nit2 for [stud1@nit2]
+12/03/04 12:53:10 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 12:53:11 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 12:56:02 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 12:56:02 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 12:56:27 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 12:56:28 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 13:00:10 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:00:11 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@localhost]
+12/03/04 13:00:11 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@localhost]
+12/03/04 13:02:00 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:02:01 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 13:02:29 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:02:29 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 13:02:48 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:02:48 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@localhost]
+12/03/04 13:08:02 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:08:02 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 13:08:21 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:08:21 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 13:13:23 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:13:23 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]
+12/03/04 13:13:47 INFO  smtpserver: Connection from 127.0.0.1 (127.0.0.1)
+12/03/04 13:13:47 INFO  smtpserver: Successfully spooled mail from stud1@nit2 for [stud2@nit2]

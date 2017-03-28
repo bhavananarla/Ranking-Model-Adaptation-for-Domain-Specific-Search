@@ -1,0 +1,14 @@
+05/03/04 11:22:29 INFO  mailstore: JamesMailStore init...
+05/03/04 11:22:29 INFO  mailstore: Registering Repository instance of class org.apache.james.mailrepository.AvalonMailRepository to handle file protocol requests for repositories of type MAIL
+05/03/04 11:22:29 INFO  mailstore: Registering Repository instance of class org.apache.james.mailrepository.AvalonSpoolRepository to handle file protocol requests for repositories of type SPOOL
+05/03/04 11:22:29 INFO  mailstore: Registering Repository instance of class org.apache.james.mailrepository.JDBCMailRepository to handle db protocol requests for repositories of type MAIL
+05/03/04 11:22:29 INFO  mailstore: Registering Repository instance of class org.apache.james.mailrepository.JDBCSpoolRepository to handle db protocol requests for repositories of type SPOOL
+05/03/04 11:22:29 INFO  mailstore: Registering Repository instance of class org.apache.james.mailrepository.JDBCMailRepository to handle dbfile protocol requests for repositories of type MAIL
+05/03/04 11:22:29 INFO  mailstore: Registering Repository instance of class org.apache.james.mailrepository.JDBCSpoolRepository to handle dbfile protocol requests for repositories of type SPOOL
+05/03/04 11:22:30 INFO  mailstore: added repository: file://var/mail/spool/SPOOL->org.apache.james.mailrepository.AvalonSpoolRepository
+05/03/04 11:22:30 INFO  mailstore: SpoolRepository inboundSpool opened: 8461448
+05/03/04 11:22:30 INFO  mailstore: James MailStore ...init
+05/03/04 11:22:30 INFO  mailstore: added repository: file://var/mail/inboxes/MAIL->org.apache.james.mailrepository.AvalonMailRepository
+05/03/04 11:22:30 INFO  mailstore: added repository: file://var/mail/error/MAIL->org.apache.james.mailrepository.AvalonMailRepository
+05/03/04 11:22:30 INFO  mailstore: added repository: file://var/mail/outgoing/SPOOL->org.apache.james.mailrepository.AvalonSpoolRepository
+05/03/04 11:22:30 INFO  mailstore: added repository: file://var/mail/spam/MAIL->org.apache.james.mailrepository.AvalonMailRepository

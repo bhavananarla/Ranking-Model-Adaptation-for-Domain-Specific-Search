@@ -1,0 +1,5 @@
+12/03/04 12:33:42 INFO  remotemanager: Remote Manager Service uses default thread group.
+12/03/04 12:33:42 INFO  remotemanager: Remote Manager Service is running on: nit2
+12/03/04 12:33:42 INFO  remotemanager: Remote Manager Service handler hello name is: nit2
+12/03/04 12:33:42 INFO  remotemanager: Remote Manager Service handler connection timeout is: 60000
+12/03/04 12:33:42 INFO  remotemanager: Remote Manager Service started plain:4555

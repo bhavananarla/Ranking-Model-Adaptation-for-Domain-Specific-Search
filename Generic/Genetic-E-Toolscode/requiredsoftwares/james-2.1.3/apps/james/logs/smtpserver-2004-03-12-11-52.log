@@ -1,0 +1,7 @@
+12/03/04 11:52:53 INFO  smtpserver: SMTP Service uses default thread group.
+12/03/04 11:52:53 INFO  smtpserver: SMTP Service is running on: nit2
+12/03/04 11:52:53 INFO  smtpserver: SMTP Service handler hello name is: nit2
+12/03/04 11:52:53 INFO  smtpserver: SMTP Service handler connection timeout is: 360000
+12/03/04 11:52:53 INFO  smtpserver: This SMTP server does not require authentication.
+12/03/04 11:52:53 INFO  smtpserver: No maximum message size is enforced for this server.
+12/03/04 11:52:53 INFO  smtpserver: The idle timeout will be reset every 20480 bytes.

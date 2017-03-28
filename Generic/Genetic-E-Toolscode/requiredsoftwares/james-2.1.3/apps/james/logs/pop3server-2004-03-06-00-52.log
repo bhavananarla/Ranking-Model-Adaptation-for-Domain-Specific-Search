@@ -1,0 +1,20 @@
+06/03/04 00:52:35 INFO  pop3server: POP3 Service uses default thread group.
+06/03/04 00:52:35 INFO  pop3server: POP3 Service is running on: nit5
+06/03/04 00:52:35 INFO  pop3server: POP3 Service handler hello name is: nit5
+06/03/04 00:52:35 INFO  pop3server: POP3 Service handler connection timeout is: 120000
+06/03/04 00:52:35 INFO  pop3server: The idle timeout will be reset every 20480 bytes.
+06/03/04 00:52:35 INFO  pop3server: POP3 Service started plain:110
+06/03/04 00:53:02 INFO  pop3server: Connection from 127.0.0.1 (127.0.0.1) 
+06/03/04 00:53:02 INFO  pop3server: Connection for success1 from 127.0.0.1 (127.0.0.1) closed.
+06/03/04 00:53:42 INFO  pop3server: Connection from 127.0.0.1 (127.0.0.1) 
+06/03/04 00:53:42 INFO  pop3server: Connection for success2 from 127.0.0.1 (127.0.0.1) closed.
+06/03/04 00:53:42 INFO  pop3server: Connection from 127.0.0.1 (127.0.0.1) 
+06/03/04 00:53:42 INFO  pop3server: Connection for success2 from 127.0.0.1 (127.0.0.1) closed.
+06/03/04 00:53:58 INFO  pop3server: Connection from 127.0.0.1 (127.0.0.1) 
+06/03/04 00:53:58 INFO  pop3server: Connection for success1 from 127.0.0.1 (127.0.0.1) closed.
+06/03/04 00:57:36 INFO  pop3server: Connection from 127.0.0.1 (127.0.0.1) 
+06/03/04 00:57:36 INFO  pop3server: Connection for success2 from 127.0.0.1 (127.0.0.1) closed.
+06/03/04 00:59:00 INFO  pop3server: Connection from 127.0.0.1 (127.0.0.1) 
+06/03/04 00:59:00 INFO  pop3server: Connection for success2 from 127.0.0.1 (127.0.0.1) closed.
+06/03/04 00:59:00 INFO  pop3server: Connection from 127.0.0.1 (127.0.0.1) 
+06/03/04 00:59:00 INFO  pop3server: Connection for success2 from 127.0.0.1 (127.0.0.1) closed.

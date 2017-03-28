@@ -1,0 +1,86 @@
+05/02/05 23:42:05 INFO  pop3server: POP3 Service uses default thread group.
+05/02/05 23:42:05 INFO  pop3server: POP3 Service is running on: inetsolv
+05/02/05 23:42:05 INFO  pop3server: POP3 Service handler hello name is: inetsolv
+05/02/05 23:42:05 INFO  pop3server: POP3 Service handler connection timeout is: 120000
+05/02/05 23:42:05 INFO  pop3server: The idle timeout will be reset every 20480 bytes.
+05/02/05 23:42:05 INFO  pop3server: POP3 Service started plain:110
+05/02/05 23:46:53 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:54 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:54 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:54 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:55 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:55 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:55 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:55 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:56 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:56 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:56 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:56 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:57 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:57 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:57 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:57 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:58 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:58 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:58 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:58 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:59 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:59 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:59 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:59 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:59 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:59 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:46:59 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:46:59 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:00 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:00 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:00 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:00 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:00 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:01 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:01 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:01 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:01 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:01 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:01 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:01 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:02 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:02 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:47:02 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:47:03 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:12 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:12 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:12 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:12 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:13 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:13 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:13 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:13 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:13 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:13 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:13 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:14 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:14 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:14 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:14 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:14 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:14 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:15 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:15 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:15 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:15 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:15 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:15 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:15 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:15 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:15 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:15 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:16 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:16 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:16 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:16 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:16 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:16 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:16 INFO  pop3server: Connection for prasad from inetsolv (127.0.0.1) closed.
+05/02/05 23:48:16 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+05/02/05 23:48:16 INFO  pop3server: Connection for vasu from inetsolv (127.0.0.1) closed.

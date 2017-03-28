@@ -1,0 +1,7 @@
+08/02/04 04:20:12 INFO  James.Mailet: RemoteDelivery: No mail server found for: localhost.com
+08/02/04 04:20:12 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1076194152187-0-to-localhost.com: javax.mail.MessagingException: There are no DNS entries for the hostname localhost.com.  I cannot determine where to send this message.
+	at org.apache.james.transport.mailets.RemoteDelivery.deliver(RemoteDelivery.java:263)
+	at org.apache.james.transport.mailets.RemoteDelivery.run(RemoteDelivery.java:758)
+	at java.lang.Thread.run(Thread.java:536)
+
+08/02/04 04:20:12 INFO  James.Mailet: RemoteDelivery: Storing message Mail1076194152187-0-to-localhost.com into outgoing after 0 retries
