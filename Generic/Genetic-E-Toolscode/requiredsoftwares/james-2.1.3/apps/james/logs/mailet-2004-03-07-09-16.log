@@ -1,9 +1,0 @@
-07/03/04 09:22:54 INFO  James.Mailet: ToRepository: Storing mail Mail1078631574593-0 in file://var/mail/error/
-07/03/04 09:25:05 INFO  James.Mailet: ToRepository: Storing mail Mail1078631705734-1 in file://var/mail/error/
-07/03/04 09:34:00 INFO  James.Mailet: RemoteDelivery: No mail server found for: nit5
-07/03/04 09:34:00 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1078632180468-8-to-nit5: javax.mail.MessagingException: There are no DNS entries for the hostname nit5.  I cannot determine where to send this message.
-	at org.apache.james.transport.mailets.RemoteDelivery.deliver(RemoteDelivery.java:263)
-	at org.apache.james.transport.mailets.RemoteDelivery.run(RemoteDelivery.java:758)
-	at java.lang.Thread.run(Thread.java:536)
-
-07/03/04 09:34:00 INFO  James.Mailet: RemoteDelivery: Storing message Mail1078632180468-8-to-nit5 into outgoing after 0 retries
