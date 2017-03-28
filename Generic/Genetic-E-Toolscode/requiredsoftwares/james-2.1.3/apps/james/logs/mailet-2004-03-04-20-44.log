@@ -1,8 +1,0 @@
-04/03/04 20:46:03 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1078413303578-0-to-inetsolv to host inetsolv to addresses [solv2@inetsolv]
-04/03/04 20:46:03 INFO  James.Mailet: RemoteDelivery: Mail (Mail1078413303578-0-to-inetsolv) sent successfully to inetsolv
-04/03/04 20:47:03 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1078413303609-1-to-inetsolv to host inetsolv to addresses [solv2@inetsolv]
-04/03/04 20:47:03 INFO  James.Mailet: RemoteDelivery: Mail (Mail1078413303609-1-to-inetsolv) sent successfully to inetsolv
-04/03/04 20:48:03 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1078413363843-2-to-inetsolv to host inetsolv to addresses [solv2@inetsolv]
-04/03/04 20:48:04 INFO  James.Mailet: RemoteDelivery: Mail (Mail1078413363843-2-to-inetsolv) sent successfully to inetsolv
-04/03/04 20:49:04 INFO  James.Mailet: RemoteDelivery: Attempting delivery of Mail1078413423875-3-to-inetsolv to host inetsolv to addresses [solv2@inetsolv]
-04/03/04 20:49:04 INFO  James.Mailet: RemoteDelivery: Mail (Mail1078413423875-3-to-inetsolv) sent successfully to inetsolv
