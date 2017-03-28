@@ -1,0 +1,134 @@
+// Decompiled by DJ v3.5.5.77 Copyright 2003 Atanas Neshkov  Date: 11/22/2013 3:13:38 PM
+// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   SendMail.java
+
+import java.io.PrintStream;
+import java.sql.*;
+import java.util.Date;
+import java.util.Properties;
+import javax.mail.*;
+import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeMessage;
+import oracle.jdbc.driver.OracleDriver;
+
+public class SendMail
+{
+
+    public SendMail()
+    {
+    }
+
+    public static void main(String args[])
+    {
+        String s;
+        Connection connection;
+        Statement statement;
+        Statement statement1;
+        Statement statement2;
+        String s1;
+        Object obj = null;
+        Object obj1 = null;
+        Object obj2 = null;
+        Object obj3 = null;
+        s = "admin@localhost";
+        connection = null;
+        statement = null;
+        statement1 = null;
+        statement2 = null;
+        Object obj4 = null;
+        s1 = "From Webmaster";
+        Object obj5 = null;
+        Object obj6 = null;
+        Object obj7 = null;
+        Object obj8 = null;
+        DriverManager.registerDriver(new OracleDriver());
+        connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:server", "scott", "tiger");
+        statement = connection.createStatement();
+        statement1 = connection.createStatement();
+        statement2 = connection.createStatement();
+        Statement statement3 = connection.createStatement();
+        String s4 = "select * from message where status = 0 ";
+        for(ResultSet resultset = statement.executeQuery(s4); resultset.next();)
+        {
+            int i = resultset.getInt(1);
+            System.out.println("msgid" + i);
+            String s2 = resultset.getString(2);
+            System.out.println("content" + s2);
+            String s3 = resultset.getString(4);
+            System.out.println("listname" + s3);
+            String s5 = "select listno from listmaster where listname = '" + s3 + "'";
+            ResultSet resultset1 = statement1.executeQuery(s5);
+            resultset1.next();
+            int j = resultset1.getInt(1);
+            System.out.println(j);
+            String s6 = "select email from listdetails where listno = " + j;
+            for(ResultSet resultset2 = statement2.executeQuery(s6); resultset2.next(); System.out.println("updated"))
+            {
+                String s8 = resultset2.getString(1);
+                System.out.println(s8);
+                String s9 = "localhost";
+                Properties properties = System.getProperties();
+                String s10 = "MyMailerProgram";
+                properties.put("mail.smtp.host", s9);
+                Session session = Session.getDefaultInstance(properties, null);
+                MimeMessage mimemessage = new MimeMessage(session);
+                mimemessage.setFrom(new InternetAddress(s));
+                String s11 = s2;
+                mimemessage.setRecipients(javax.mail.Message.RecipientType.TO, InternetAddress.parse(s8, false));
+                mimemessage.setSubject(s1);
+                mimemessage.setHeader("X-Mailer", s10);
+                mimemessage.setSentDate(new Date());
+                mimemessage.setText(s11);
+                Transport.send(mimemessage);
+                System.out.println("message posted");
+                String s7 = "update message set status = 1 where messageid ='" + i + "'and listname='" + s3 + "'";
+                System.out.println(s7);
+                statement3.executeUpdate(s7);
+            }
+
+        }
+
+        try
+        {
+            statement.close();
+            statement1.close();
+            statement2.close();
+            connection.close();
+        }
+        catch(SQLException sqlexception)
+        {
+            sqlexception.printStackTrace();
+        }
+        break MISSING_BLOCK_LABEL_674;
+        Exception exception;
+        exception;
+        exception.printStackTrace();
+        try
+        {
+            statement.close();
+            statement1.close();
+            statement2.close();
+            connection.close();
+        }
+        catch(SQLException sqlexception1)
+        {
+            sqlexception1.printStackTrace();
+        }
+        break MISSING_BLOCK_LABEL_674;
+        Exception exception1;
+        exception1;
+        try
+        {
+            statement.close();
+            statement1.close();
+            statement2.close();
+            connection.close();
+        }
+        catch(SQLException sqlexception2)
+        {
+            sqlexception2.printStackTrace();
+        }
+        throw exception1;
+    }
+}

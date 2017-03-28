@@ -1,0 +1,7 @@
+Rational Rose v4.0.14
+
+Rational Rose dominates the market for object-oriented analysis, modeling, design, and construction tools.
+
+International Data Corporation (IDC), a leading, independent market and technology research firm published a report in July 1997 that shows Rational's market share to be larger than that of the next three vendors combined and more than three times that of the nearest competitor.
+
+* Released by Programmer Edition *

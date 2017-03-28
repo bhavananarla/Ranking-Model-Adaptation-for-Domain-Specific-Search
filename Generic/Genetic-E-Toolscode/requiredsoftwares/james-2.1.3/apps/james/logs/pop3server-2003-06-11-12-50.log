@@ -1,0 +1,32 @@
+11/06/03 12:50:24 INFO  pop3server: POP3 Service uses default thread group.
+11/06/03 12:50:24 INFO  pop3server: POP3 Service is running on: inetsolv
+11/06/03 12:50:24 INFO  pop3server: POP3 Service handler hello name is: inetsolv
+11/06/03 12:50:24 INFO  pop3server: POP3 Service handler connection timeout is: 120000
+11/06/03 12:50:24 INFO  pop3server: The idle timeout will be reset every 20480 bytes.
+11/06/03 12:50:24 INFO  pop3server: POP3 Service started plain:110
+11/06/03 12:50:32 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:50:32 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:50:33 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:50:33 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:50:33 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:50:33 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:50:34 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:50:34 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:50:34 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:50:34 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:53:13 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:53:13 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:53:14 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:53:14 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:53:14 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:53:14 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 12:54:01 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 12:54:02 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 13:24:02 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 13:24:02 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 13:54:02 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 13:54:02 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 14:08:32 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 14:08:32 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.
+11/06/03 14:08:46 INFO  pop3server: Connection from inetsolv (127.0.0.1) 
+11/06/03 14:08:46 INFO  pop3server: Connection for lakshman from inetsolv (127.0.0.1) closed.

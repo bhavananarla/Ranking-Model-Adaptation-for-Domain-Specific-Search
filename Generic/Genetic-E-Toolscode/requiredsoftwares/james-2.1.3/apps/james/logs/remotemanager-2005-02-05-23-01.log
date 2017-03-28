@@ -1,0 +1,23 @@
+05/02/05 23:01:16 INFO  remotemanager: Remote Manager Service uses default thread group.
+05/02/05 23:01:16 INFO  remotemanager: Remote Manager Service is running on: inetsolv
+05/02/05 23:01:16 INFO  remotemanager: Remote Manager Service handler hello name is: inetsolv
+05/02/05 23:01:16 INFO  remotemanager: Remote Manager Service handler connection timeout is: 60000
+05/02/05 23:01:17 INFO  remotemanager: Remote Manager Service started plain:4555
+05/02/05 23:01:29 INFO  remotemanager: Access from inetsolv(127.0.0.1)
+05/02/05 23:01:41 INFO  remotemanager: Login for root successful
+05/02/05 23:02:25 INFO  remotemanager: User inet deleted
+05/02/05 23:02:31 INFO  remotemanager: User inetsolv deleted
+05/02/05 23:03:03 INFO  remotemanager: User lakshman deleted
+05/02/05 23:03:11 INFO  remotemanager: User stud1 deleted
+05/02/05 23:03:21 INFO  remotemanager: User stude doesn't exist
+05/02/05 23:03:29 INFO  remotemanager: User stud2 deleted
+05/02/05 23:03:36 INFO  remotemanager: User success1 deleted
+05/02/05 23:03:44 INFO  remotemanager: User success2 deleted
+05/02/05 23:05:30 INFO  remotemanager: User asadduser added
+05/02/05 23:05:35 INFO  remotemanager: User vasu added
+05/02/05 23:05:41 INFO  remotemanager: User prasad doesn't exist
+05/02/05 23:05:52 INFO  remotemanager: User prasad added
+05/02/05 23:11:07 INFO  remotemanager: Logout for root.
+05/02/05 23:27:49 INFO  remotemanager: Access from inetsolv(127.0.0.1)
+05/02/05 23:27:59 INFO  remotemanager: Login for root successful
+05/02/05 23:33:50 INFO  remotemanager: Logout for root.

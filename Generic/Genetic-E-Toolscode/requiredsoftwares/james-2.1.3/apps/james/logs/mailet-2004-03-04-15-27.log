@@ -1,0 +1,14 @@
+04/03/04 15:39:15 INFO  James.Mailet: RemoteDelivery: No mail server found for: inetsolv.com
+04/03/04 15:39:15 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1078394893062-0-to-inetsolv.com: javax.mail.MessagingException: There are no DNS entries for the hostname inetsolv.com.  I cannot determine where to send this message.
+	at org.apache.james.transport.mailets.RemoteDelivery.deliver(RemoteDelivery.java:263)
+	at org.apache.james.transport.mailets.RemoteDelivery.run(RemoteDelivery.java:758)
+	at java.lang.Thread.run(Thread.java:536)
+
+04/03/04 15:39:15 INFO  James.Mailet: RemoteDelivery: Storing message Mail1078394893062-0-to-inetsolv.com into outgoing after 0 retries
+04/03/04 15:54:18 INFO  James.Mailet: RemoteDelivery: No mail server found for: inetsolv
+04/03/04 15:54:18 INFO  James.Mailet: RemoteDelivery: Temporary exception delivering mail (Mail1078395796265-1-to-inetsolv: javax.mail.MessagingException: There are no DNS entries for the hostname inetsolv.  I cannot determine where to send this message.
+	at org.apache.james.transport.mailets.RemoteDelivery.deliver(RemoteDelivery.java:263)
+	at org.apache.james.transport.mailets.RemoteDelivery.run(RemoteDelivery.java:758)
+	at java.lang.Thread.run(Thread.java:536)
+
+04/03/04 15:54:18 INFO  James.Mailet: RemoteDelivery: Storing message Mail1078395796265-1-to-inetsolv into outgoing after 0 retries

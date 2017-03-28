@@ -1,0 +1,14 @@
+Hardware requirements:
+processor	: Intel celeron / Pentium
+ram		: 128MB
+HardDisk	: 8GB
+
+Software requirements:
+1.j2sdk1.4.1_01
+2.James Server
+3.ApacheTomcat4.1
+
+Technologies used:
+1.Servlets
+2.JDBC
+3.Java Mail API

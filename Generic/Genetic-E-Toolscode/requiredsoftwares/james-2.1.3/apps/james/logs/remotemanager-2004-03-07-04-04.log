@@ -1,0 +1,11 @@
+07/03/04 04:04:56 INFO  remotemanager: Remote Manager Service uses default thread group.
+07/03/04 04:04:56 INFO  remotemanager: Remote Manager Service is running on: nit5
+07/03/04 04:04:56 INFO  remotemanager: Remote Manager Service handler hello name is: nit5
+07/03/04 04:04:56 INFO  remotemanager: Remote Manager Service handler connection timeout is: 60000
+07/03/04 04:04:56 INFO  remotemanager: Remote Manager Service started plain:4555
+07/03/04 04:05:49 INFO  remotemanager: Access from 127.0.0.1(127.0.0.1)
+07/03/04 04:05:55 INFO  remotemanager: Login for root successful
+07/03/04 04:06:31 INFO  remotemanager: User succ doesn't exist
+07/03/04 04:07:27 INFO  remotemanager: User stud1 added
+07/03/04 04:07:39 INFO  remotemanager: User stud2 added
+07/03/04 04:07:46 INFO  remotemanager: Logout for root.

@@ -1,0 +1,30 @@
+04/03/04 17:27:56 INFO  pop3server: POP3 Service uses default thread group.
+04/03/04 17:27:56 INFO  pop3server: POP3 Service is running on: nit2
+04/03/04 17:27:56 INFO  pop3server: POP3 Service handler hello name is: nit2
+04/03/04 17:27:56 INFO  pop3server: POP3 Service handler connection timeout is: 120000
+04/03/04 17:27:56 INFO  pop3server: The idle timeout will be reset every 20480 bytes.
+04/03/04 17:27:56 INFO  pop3server: POP3 Service started plain:110
+04/03/04 17:30:29 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:29 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:30:36 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:36 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:30:37 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:37 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:30:38 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:38 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:30:38 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:38 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:30:38 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:38 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:30:38 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:38 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:30:39 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:30:39 INFO  pop3server: Connection for ramki from nit2 (192.168.100.2) closed.
+04/03/04 17:37:43 INFO  pop3server: Connection from NIT1 (192.168.100.101) 
+04/03/04 17:37:43 INFO  pop3server: Connection for kittu from NIT1 (192.168.100.101) closed.
+04/03/04 17:38:48 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:38:48 INFO  pop3server: Connection for hema from nit2 (192.168.100.2) closed.
+04/03/04 17:40:10 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:40:10 INFO  pop3server: Connection for sitha from nit2 (192.168.100.2) closed.
+04/03/04 17:40:10 INFO  pop3server: Connection from nit2 (192.168.100.2) 
+04/03/04 17:40:10 INFO  pop3server: Connection for sitha from nit2 (192.168.100.2) closed.

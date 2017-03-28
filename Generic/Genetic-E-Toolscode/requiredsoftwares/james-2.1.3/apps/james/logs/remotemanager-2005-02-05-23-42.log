@@ -1,0 +1,8 @@
+05/02/05 23:42:05 INFO  remotemanager: Remote Manager Service uses default thread group.
+05/02/05 23:42:05 INFO  remotemanager: Remote Manager Service is running on: inetsolv
+05/02/05 23:42:05 INFO  remotemanager: Remote Manager Service handler hello name is: inetsolv
+05/02/05 23:42:05 INFO  remotemanager: Remote Manager Service handler connection timeout is: 60000
+05/02/05 23:42:05 INFO  remotemanager: Remote Manager Service started plain:4555
+05/02/05 23:42:06 INFO  remotemanager: Access from inetsolv(127.0.0.1)
+05/02/05 23:42:10 INFO  remotemanager: Login for root successful
+05/02/05 23:47:16 INFO  remotemanager: Logout for root.

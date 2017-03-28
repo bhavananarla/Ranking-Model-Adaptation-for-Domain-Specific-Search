@@ -1,0 +1,26 @@
+08/02/04 10:49:44 INFO  smtpserver: SMTP Service uses default thread group.
+08/02/04 10:49:44 INFO  smtpserver: SMTP Service is running on: inetsolv
+08/02/04 10:49:44 INFO  smtpserver: SMTP Service handler hello name is: inetsolv
+08/02/04 10:49:44 INFO  smtpserver: SMTP Service handler connection timeout is: 360000
+08/02/04 10:49:44 INFO  smtpserver: This SMTP server does not require authentication.
+08/02/04 10:49:44 INFO  smtpserver: No maximum message size is enforced for this server.
+08/02/04 10:49:44 INFO  smtpserver: The idle timeout will be reset every 20480 bytes.
+08/02/04 10:49:44 INFO  smtpserver: SMTP Service started plain:25
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [vasu@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [ravi@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [king@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [kkk@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [gopal@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [vasu@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [ravi@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:13 INFO  smtpserver: Successfully spooled mail from admin@localhost for [vasu@localhost]
+08/02/04 11:03:13 INFO  smtpserver: Connection from inetsolv (127.0.0.1)
+08/02/04 11:03:14 INFO  smtpserver: Successfully spooled mail from admin@localhost for [ravi@localhost]
